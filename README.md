@@ -13,7 +13,9 @@ We primarily work with smaller companies based in Värmland but are open for rem
 NONE YET :)
 
 ## Top technologies/frameworks we use
-- .NET
+- Laravel
+- SASS
+
 
 ## Profile stats
-![](https://komarev.com/ghpvc/?username=kazokuit&color=brightgreen&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=felixmademe&color=brightgreen&label=Profile+views)
